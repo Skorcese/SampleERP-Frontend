@@ -6,6 +6,19 @@ This is a simple, quasi ERP app, in which you can save material and partnering b
 
 ### Project still in development!!!
 
+## Used resources
+
+    - Frontend
+        - React (Context <- to be implemented)
+        - Redux / ReduxThunk / ReduxForm
+        - Semantic UI
+        - Axios
+    - Backend
+        - MongoDB / Mongoose
+        - Joi
+        - Express
+        - JWT
+
 ## TODOs:
 
     - [ ] Use of React Context for multi-language mode. Frontend is currently in Polish. Target => PL / ENG switch in the Header
